@@ -340,7 +340,7 @@ def app(ppt_file='find_trend.pptx'):
              left_inch=1, top_inch=2, size=5, start_ppt=False) #位置要調整
     
     # Price Trend Chat
-    pic_title = "【" + target_stock[0] + "】Price Prediction Trend Chat"
+    pic_title = "【" + target_stock[0] + "】Price Prediction Trend Chart"
     image_path = 'report/stock/img/fbprophet_ticker.png'
     only_pic(ppt_file, pic_title, image=image_path,
              left_inch=1, top_inch=2, size=5, start_ppt=False)  # 位置要調整

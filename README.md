@@ -58,7 +58,7 @@
 > |[app](./FindTrend_Code/app.py)|利用Streamlit建構FinTrend的網頁，並以此作為運行主檔|
 > |[craw_url](./FindTrend_Code/craw_url.py)|爬取相關新聞的網頁連結|
 > |[gra](./FindTrend_Code/gra.py)|利用networkX繪製半自動的知識圖譜以及共現矩陣的關聯詞熱度圖|
-> |[invest](./FindTrend_Code/invest.py)|爬取1年期公債殖利率，以計算CAPM模型的預期報酬率(股價爬取及整理至於app內)。|
+> |[invest](./FindTrend_Code/invest.py)|爬取1年期公債殖利率，以計算CAPM模型的預期報酬率(股價爬取及整理至於app內)|
 > [news_sum](./FindTrend_Code/news_sum.py)|整合新聞後透過文本分析生成摘要|
 > [news](./FindTrend_Code/news.py)|相關新聞進行斷詞、整合等相關的自然語言處理|
 > [ppt](./FindTrend_Code/ppt.py)|自動生成簡報|

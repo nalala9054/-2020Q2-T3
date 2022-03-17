@@ -45,7 +45,7 @@
 >
 ### :star2:【FindTrend】專案成果
 > * Home：  
-> <img src="./picture/FindTrend_Cover.png" width = "55%" height = "55%" alt="FindTrend_Cover" align=center />   
+> <img src="./picture/FindTrend_Cover.png" width = "45%" height = "45%" alt="FindTrend_Cover" align=center />   
 >
 > * 使用情境流程：
 > ![Process](./picture/使用情境故事流程.png)  

@@ -56,13 +56,11 @@
 > | 項目 | 說明 |   
 > | :-----: | :-------- |
 > |[app](./FindTrend_Code/app.py)|利用Streamlit建構FinTrend的網頁，並以此作為運行主檔|
-> |[craw_url](./FindTrend_Code/craw_url.py)|爬取相關新聞的網頁連結|
-> |[gra](./FindTrend_Code/gra.py)|利用networkX繪製半自動的知識圖譜以及共現矩陣的關聯詞熱度圖|
+> |[craw_url](./FindTrend_Code/craw_url.py)|爬取相關新聞的網頁連結的內文|
+> |[gra](./FindTrend_Code/gra.py)|利用networkX繪製半自動的知識圖譜，並生成關聯詞和繪製關聯詞熱度圖|
 > |[invest](./FindTrend_Code/invest.py)|爬取1年期公債殖利率，以計算CAPM模型的預期報酬率(股價爬取及整理至於app內)|
-> [news_sum](./FindTrend_Code/news_sum.py)|整合新聞後透過文本分析生成摘要|
-> [news](./FindTrend_Code/news.py)|相關新聞進行斷詞、整合等相關的自然語言處理|
+> [news](./FindTrend_Code/news.py)|將相關文章進行共線矩陣處理，並整合成摘要|
 > [ppt](./FindTrend_Code/ppt.py)|自動生成簡報|
-> [Relatedwords](./FindTrend_Code/Relatedwords.py)|產生關聯詞以及關聯詞摘要|
 > [rss](./FindTrend_Code/rss.py)|爬蟲Google News的相關新聞並輸出成json|
 > [wc](./FindTrend_Code/wc.py)|利用新聞內容生成文字雲|
 > 
